@@ -1,0 +1,13 @@
+{
+	"windows":{
+		"firefox": "src/test/resources/drivers/geckodriver.exe",
+		"chrome": "src/test/resources/drivers/chromedriver.exe",
+		"internet explorer": "src/test/resources/drivers/IEDriverServer.exe"
+	},
+	
+	"other":{
+		"firefox": "/usr/local/bin/geckodriver",
+		"chrome": "/usr/local/bin/chromedriver",
+		"Safari": "/usr/bin/safaridriver"
+	}
+}

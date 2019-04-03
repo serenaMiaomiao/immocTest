@@ -1,0 +1,29 @@
+{
+
+    "CROSS_BROWSER": "false",
+    
+    "RUN_AT_LOCAL": "true",
+    
+    "SOURCECODE_IS_ON_WINDOWS": "true",
+    
+    "TEST_CASES" : "com.inspirus.clae.tests",
+    
+    "TEST_DATA" : "src/test/resources/testData",
+    
+	"TEST_ENV": "QA3",
+	
+	"QA3": {
+		"CLAE_CONSOLE_URL": "https://awsepclaeqa3.inspirus365.com/",
+		"CLAE_CNG_DESKTOP_URL": "https://awsepi365qa3.inspirus365.com/cng/login.frm?customerNumber=",
+		"CLAE_CNG_MOBILE_URL": "https://awsepi365qa3.inspirus365.com/cng/mobile/login.frm?customerNumber=",
+		"CLAE_EP_DESKTOP_URL": "https://awsepuxqa3.inspirus365.com/login?customerNumber="
+	},
+
+	"TEST1": {
+		"CLAE_CONSOLE_URL": "https://awsepclaeqa3.inspirus365.com/",
+		"CLAE_CNG_DESKTOP_URL": "https://awsepi365qa3.inspirus365.com/cng/login.frm?customerNumber=",
+		"CLAE_CNG_MOBILE_URL": "https://awsepi365qa3.inspirus365.com/cng/mobile/login.frm?customerNumber=",
+		"CLAE_EP_DESKTOP_URL": "https://awsepuxqa3.inspirus365.com/login?customerNumber="
+	}
+
+}

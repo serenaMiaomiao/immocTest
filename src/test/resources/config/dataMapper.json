@@ -1,0 +1,15 @@
+{
+	"com": {
+		"inspirus": {
+			"clae": {
+				"tests": {
+					"desktopWeb": {
+						"console": {
+							"ConsoleLoginTest": "src/test/resources/testData/desktopWeb/console/ConsoleLoginTestData.json"
+						}
+					}
+				}
+			}
+		}
+	}
+}
